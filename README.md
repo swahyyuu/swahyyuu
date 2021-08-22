@@ -18,7 +18,6 @@ for checking some make up for stats like below :
 https://github.com/anuraghazra/github-readme-stats
 -->
 
-
 <p align="left">
 <a href="https://github.com/gilangadhan">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=swahyyuu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
