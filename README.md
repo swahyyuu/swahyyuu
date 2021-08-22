@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+for checking some make up for stats like below :
+https://github.com/anuraghazra/github-readme-stats
 -->
 
 
